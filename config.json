@@ -1,0 +1,16 @@
+{
+    "openai_api_key": "sk-123456xxxxxxxxxxxxxxxxxxx",
+    "users": [["admin", "admin"], ["user", "user"], ["guest", "guest"]],
+    "advance_docs": {
+        "pdf": {
+          "two_column": false,
+           "formula_ocr": true
+        }
+    },
+    "multi_api_key": false,
+    "api_key_list": [
+        "sk-xxxxxxxxxxxxxxxxxxxxxxxx1",
+        "sk-xxxxxxxxxxxxxxxxxxxxxxxx2",
+        "sk-xxxxxxxxxxxxxxxxxxxxxxxx3"
+    ]
+}
